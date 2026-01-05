@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🛠️ Tech Stack**
 
-- **Primary Languages:** C/C++, Markdown, Shell, Python  
+- **Primary Languages:** C/C++, Rust, Markdown, Shell, Python
 - **Other:** Java, Go, XML, etc.
 
 **😄 Expertise**
